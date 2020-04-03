@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Запознайте се с най-добрите дозатори за течности!
+![r](http://ring-bg.com/images_new/devices/dt25r.jpg)
 
 Можете да видите повече данни за дозаторите за вентили [тук](http://ring-bg.com/BG/devices_DT_bg.html)
 
