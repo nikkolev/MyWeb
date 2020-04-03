@@ -1,11 +1,12 @@
 ## Запознайте се с най-добрите дозатори за течности!
 ![r](http://ring-bg.com/images_new/devices/dt25r.jpg)
 
+Те са:
+- бързи
+- яростни
+- страшни
+
 Можете да видите повече данни за дозаторите [тук](http://ring-bg.com/BG/devices_DT_bg.html)
-Te sa
-№- бързи
-№- №яростни
-№- №страшни
 
 You can use the [editor on GitHub](https://github.com/nikkolev/MyWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
