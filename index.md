@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Можете да видите повече данни за дозаторите за вентили [тук](http://ring-bg.com/BG/devices_DT_bg.html)
+
 You can use the [editor on GitHub](https://github.com/nikkolev/MyWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Header 3 from Me
