@@ -1,5 +1,5 @@
 ## Запознайте се с най-добрите дозатори за течности!
-![r](http://ring-bg.com/images_new/devices/dt25r.jpg)
+![r](dt_family.jpg)
 
 Те са:
 - бързи
